@@ -1,0 +1,47 @@
+.music-content-container {
+  height: 125px;
+  /* border-style: solid;
+  border-color: white; */
+  list-style-type: none;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+  align-items: center;
+}
+.music-image {
+  height: 120px;
+}
+
+.music-name {
+  color: #ffffff;
+  font-family: Roboto;
+  margin-left: 20px;
+}
+
+.music-genre {
+  font-family: Roboto;
+  color: #3b82f6;
+  margin-left: 20px;
+}
+
+.music-content-left {
+  display: flex;
+}
+
+.duration {
+  color: white;
+}
+
+.delete-icon {
+  color: white;
+  height: 30px;
+  width: 30px;
+  padding-left: 10px;
+}
+
+.music-content-right {
+  display: flex;
+  align-items: center;
+}
